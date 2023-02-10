@@ -1,4 +1,24 @@
-       
+                                                       
+                                                          
+    ,---,                                                 
+  .'  .' `\                                               
+,---.'     \    ,---.     ,---.         ,----,            
+|   |  .`\  |  '   ,'\   '   ,'\      .'   .`|            
+:   : |  '  | /   /   | /   /   |  .'   .'  .'      .--,  
+|   ' '  ;  :.   ; ,. :.   ; ,. :,---, '   ./     /_ ./|  
+'   | ;  .  |'   | |: :'   | |: :;   | .'  /   , ' , ' :  
+|   | :  |  ''   | .; :'   | .; :`---' /  ;--,/___/ \: |  
+'   : | /  ; |   :    ||   :    |  /  /  / .`| .  \  ' |  
+|   | '` ,/   \   \  /  \   \  / ./__;     .'   \  ;   :  
+;   :  .'      `----'    `----'  ;   |  .'       \  \  ;  
+|   ,.'                          `---'            :  \  \ 
+'---'                                              \  ' ; 
+                                                    `--`   
+  
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                   DON'T FORGET ME!
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
                 
 This is really an aid to manual enumeration. I have on a few occasions during CTFs forgotten my manual enumeration to do's so I created this script to run my 
 all time favourite commands for enumeration purposes. Obviously I still suggest you run Linpeas as that is just a bloody fantastic tool!
