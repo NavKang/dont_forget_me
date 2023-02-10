@@ -62,7 +62,17 @@ else
   echo "$capabilities"
 fi
 echo
-echo -e "\033[0;32mNote: Check out GTFObins and Hacktrickz\033[0m"
+echo -e "\033[0;32m-------------------------------------------------------------\033[0m"
+echo
+echo -e "\033[1;33mReadable files in home:\033[0m"
+readable=$(find /home -readable 2>/dev/null)
+if [ -z "$readable" ]; then
+  echo "No readable files found."
+else
+  echo "$readable"
+fi
+echo
+echo -e "\033[0;32mNote: Loads of goodies to be found here\033[0m"
 echo
 echo -e "\033[0;32m-------------------------------------------------------------\033[0m"
 echo
